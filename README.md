@@ -33,7 +33,7 @@ Ready to go deeper? We'll add you to our **enterprise tenant** where you can cre
 |-------|-------------|
 | [Build Your Own Agent](./build-your-own-agent.md) | Customize prompts, explore Agent Composer, and create something unique |
 
-**To participate:** Let an organizer know and we'll add your email to the tenant.
+**To participant:** If you submit the Google Form with your email address, you will automatically be added to the tenant. If you do not submit the Google Form with your email address, let an organizer know, and you'll be added to the tenant.
 
 **Judging:** Plan for a 2-3 minute demo of your agent.
 
