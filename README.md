@@ -17,6 +17,7 @@ Sign up for a **free Contextual AI account** and build your first RAG agent!
 |-------|-------------|
 | [Quick Start (GUI)](./quickstart-gui.md) | Create an agent using the Platform UI — no code required |
 | [Quick Start (API)](./quickstart-api.md) | Create an agent programmatically using Python |
+| [Quick Start (Notebook)](./quickstart-api.ipynb) | Run the API quickstart as a Jupyter notebook |
 
 **To submit:** Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdb941rSlQ6s4EcYMu-OwiLkC_jeI-8fD181pYnsbddQnNfTA/viewform) with:
 - Your email address
@@ -35,6 +36,14 @@ Ready to go deeper? We'll add you to our **enterprise tenant** where you can cre
 |-------|-------------|
 | [Build Your Own Agent](./build-your-own-agent.md) | Customize prompts, explore Agent Composer, and create something unique |
 
+**Demo Categories:**
+
+| Category | Description | Template |
+|----------|-------------|----------|
+| **Deep Research** | Build a comprehensive research assistant that conducts multi-step investigations | [Deep Research Template](https://docs.contextual.ai/examples/templates-catalog#deep-research) |
+| **Log Analysis** | Analyze logs, telemetry, or operational data to identify issues and root causes | [Rocket Anomaly Detection Template](https://docs.contextual.ai/examples/templates-catalog#rocket-anomaly-detection) |
+| **Choose Your Own** | Pick your own use case and build something unique | — |
+
 **To participant:** If you submit the Google Form with your email address, you will automatically be added to the tenant. If you do not submit the Google Form with your email address, let an organizer know, and you'll be added to the tenant.
 
 **Judging:** Plan for a 2-3 minute demo of your agent.
@@ -45,6 +54,7 @@ Ready to go deeper? We'll add you to our **enterprise tenant** where you can cre
 | **Prompt Quality** | Do the prompts produce good, consistent results? |
 | **Creativity** | Did you try something unique or innovative? |
 | **Demo Quality** | Can you clearly explain what your agent does? |
+| **LLM Extension** | Does it extend what LLMs can do on their own? |
 
 ---
 
