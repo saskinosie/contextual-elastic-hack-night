@@ -241,19 +241,6 @@ Iterate on your prompts based on the results.
 
 ---
 
-## Judging Criteria
-
-Prepare a **2-3 minute demo** showcasing:
-
-| Criteria | What We're Looking For |
-|----------|------------------------|
-| **Use Case** | Is the problem interesting and well-defined? |
-| **Prompt Quality** | Do the prompts produce good, consistent results? |
-| **Creativity** | Did you try something unique or innovative? |
-| **Demo Quality** | Can you clearly explain what your agent does? |
-
----
-
 ## Inspiration & Examples
 
 Check out these resources for ideas:

@@ -1,5 +1,7 @@
 # Elastic x Contextual AI Hack Night
 
+![Elastic x Contextual AI Hack Night](./assets/contextual_elastic_hack_night.png)
+
 Welcome to the Elastic x Contextual AI Hack Night! Build AI agents powered by Elasticsearch and Contextual AI's RAG platform.
 
 ## Event Challenges
@@ -36,6 +38,13 @@ Ready to go deeper? We'll add you to our **enterprise tenant** where you can cre
 **To participant:** If you submit the Google Form with your email address, you will automatically be added to the tenant. If you do not submit the Google Form with your email address, let an organizer know, and you'll be added to the tenant.
 
 **Judging:** Plan for a 2-3 minute demo of your agent.
+
+| Criteria | What We're Looking For |
+|----------|------------------------|
+| **Use Case** | Is the problem interesting and well-defined? |
+| **Prompt Quality** | Do the prompts produce good, consistent results? |
+| **Creativity** | Did you try something unique or innovative? |
+| **Demo Quality** | Can you clearly explain what your agent does? |
 
 ---
 
