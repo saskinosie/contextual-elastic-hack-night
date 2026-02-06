@@ -243,7 +243,22 @@ Iterate on your prompts based on the results.
 
 ## Inspiration & Examples
 
-Check out these resources for ideas:
+### Example Agents in the Shared Workspace
+
+We've created several example agents you can explore for inspiration:
+
+| Agent | Description |
+|-------|-------------|
+| **MCP Recommender Agent** | Find the perfect MCP server for your project. Describe your use case and get personalized recommendations from 5000+ servers, complete with setup instructions and config snippets. |
+| **3GPP Technical Specifications Agent** | A specialized AI assistant designed to help telecommunications professionals, engineers, and researchers navigate 3GPP technical specifications across multiple mobile technology generations. |
+| **Supply Chain Risk Dashboard** | Helps logistics teams deal with supply chain problems (like a hurricane disrupting shipping routes). Ask questions about inventory, suppliers, shipments, and contracts — it pulls together data, creates charts and maps, runs calculations, and generates PDF reports or PowerPoint presentations. |
+| **Materials Science Agent** | Proficient in materials science topics and searches through a library of research papers to find answers. Explains technically dense papers and research in plain, everyday language. |
+
+> **Tip:** Open these agents to see their prompts and configurations — you can use them as starting points for your own agents! Check the agent settings to find suggested queries you can try.
+
+### External Resources
+
+Check out these resources for more ideas:
 
 - [Demo Gallery](https://demo.contextual.ai) — See what's possible
 - [Templates Catalog](https://docs.contextual.ai/examples/templates-catalog) — Pre-built configurations
